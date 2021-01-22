@@ -1,0 +1,6 @@
+#!bin/bash
+Pelna wirtualizacja - posiadamy dany system
+wirtualizacja sprzetowa - korzystamy z maszyny udosepnionej 
+parawirtualizacja
+wirtualizacja hybydowa
+wirtualizacja na poziomie systemu operacyjnego - korzytsamy z maszyny wirtualnej na naszym systemie
